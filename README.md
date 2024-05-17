@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Natan shrestha</h1>
 <h3 align="center">Full Stack Developer from Nepal: Turning Complex Ideas into Simple Solutions</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Natan-shrestha/Natan-shrestha/assets/155275145/d1a9c0fc-3a80-4144-a061-4cc76d305ad0">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natan-shrestha&label=Profile%20views&color=0e75b6&style=flat" alt="natan-shrestha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natan-shrestha" alt="natan-shrestha" /></a> </p>
+
+<img align="right" alt="coding" width="400" src="https://github.com/Natan-shrestha/Natan-shrestha/assets/155275145/9bedfc81-5090-4234-bdaf-7561453818dc.gif">
 
 - 🔭 I’m currently working on [Letterhead](https://github.com/Natan-shrestha/next-js-letterhead)
 
