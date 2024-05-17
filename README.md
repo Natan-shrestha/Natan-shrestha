@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Natan shrestha</h1>
 <h3 align="center">Full Stack Developer from Nepal: Turning Complex Ideas into Simple Solutions</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Natan-shrestha/Natan-shrestha/assets/155275145/4c9b5316-8ee2-4da1-aaa4-1fb866c26048)
-">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Natan-shrestha/Natan-shrestha/assets/155275145/d1a9c0fc-3a80-4144-a061-4cc76d305ad0)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natan-shrestha&label=Profile%20views&color=0e75b6&style=flat" alt="natan-shrestha" /> </p>
 
