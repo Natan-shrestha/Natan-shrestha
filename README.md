@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natan-shrestha" alt="natan-shrestha" /></a> </p>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Natan-shrestha/Natan-shrestha/assets/155275145/9bedfc81-5090-4234-bdaf-7561453818dc.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/Natan-shrestha/Natan-shrestha/blob/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif">
 
 - 🔭 I’m currently working on [Letterhead](https://github.com/Natan-shrestha/next-js-letterhead)
 
