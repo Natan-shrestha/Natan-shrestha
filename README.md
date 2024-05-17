@@ -38,10 +38,14 @@
 </p>
 
 <p> </p> <!-- This creates a gap -->
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=natan-shrestha&show_icons=true&locale=en" alt="natan-shrestha" />
 </p>
-     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=natan-shrestha&" alt="natan-shrestha" />
+
+<p> </p> <!-- This creates a gap -->
+
 <p>
-  
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=natan-shrestha&" alt="natan-shrestha" />
 </p>
+
