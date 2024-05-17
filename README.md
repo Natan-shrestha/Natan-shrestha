@@ -33,8 +33,13 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Natan shrestha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Natan shrestha" /></a></p><br><br>
 </br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natan-shrestha&show_icons=true&locale=en&layout=compact" alt="natan-shrestha" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=natan-shrestha&show_icons=true&locale=en&layout=compact" alt="natan-shrestha" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natan-shrestha&show_icons=true&locale=en" alt="natan-shrestha" /></p>
+<p> </p> <!-- This creates a gap -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natan-shrestha&" alt="natan-shrestha" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=natan-shrestha&show_icons=true&locale=en" alt="natan-shrestha" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=natan-shrestha&" alt="natan-shrestha" />
+</p>
