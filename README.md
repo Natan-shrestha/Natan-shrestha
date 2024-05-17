@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/natan-shrestha-baa478263/" target="blank"><img align="center" src="https://github.com/Natan-shrestha/Natan-shrestha/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="https://www.linkedin.com/in/natan-shrestha-baa478263/" height="100" width="120" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100093523720457" target="blank"><img align="center" src="https://github.com/Natan-shrestha/Natan-shrestha/blob/main/d0e2905beca22e46b7d3c6374cd0d956.gif" alt="https://www.facebook.com/profile.php?id=100093523720457" height="100" width="120" /></a>
-<a href="https://instagram.com/https://www.instagram.com/nathan_newar1/" target="blank"><img align="center" src="https://github.com/Natan-shrestha/Natan-shrestha/blob/main/200w.gif" alt="https://www.instagram.com/nathan_newar1/" height="100" width="120" /></a>
+<a href="https://instagram.com/https://www.instagram.com/nathan_newar1/" target="blank"><img align="center" src="https://github.com/Natan-shrestha/Natan-shrestha/blob/main/araslot-instagram.gif" height="100" width="120" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
