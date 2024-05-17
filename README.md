@@ -31,7 +31,6 @@
 <p><a href="https://www.buymeacoffee.com/Natan shrestha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Natan shrestha" /></a></p><br><br>
 </br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natan-shrestha&show_icons=true&locale=en&layout=compact" alt="natan-shrestha" /></p>
-</br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natan-shrestha&show_icons=true&locale=en" alt="natan-shrestha" /></p>
 
