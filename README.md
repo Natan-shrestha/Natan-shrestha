@@ -1,4 +1,4 @@
-![image](https://github.com/Natan-shrestha/Natan-shrestha/assets/155275145/8d1657a3-a3c3-4810-8288-d0db854885f3)<h1 align="center">Hi 👋, I'm Natan shrestha</h1>
+<h1 align="center">Hi 👋, I'm Natan shrestha</h1>
 <h3 align="center">Full Stack Developer from Nepal: Turning Complex Ideas into Simple Solutions</h3>
 
 <img align="right" alt="coding" width="400" src="![image](https://github.com/Natan-shrestha/Natan-shrestha/assets/155275145/4c9b5316-8ee2-4da1-aaa4-1fb866c26048)
